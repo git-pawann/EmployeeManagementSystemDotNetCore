@@ -1,0 +1,109 @@
+﻿
+
+
+@model LoginViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .paw {
+            margin-right: 551px;
+        }
+
+        /*body {
+            background: linear-gradient(to right, #4800ff, #b200ff);
+        }*/
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <title>Login</title>
+</head>
+<body>
+    <div class="paw">
+        <div class="row mt-5">
+            <div class="col-md-6 mx-auto" style="min-height: 589px;">
+                <h3><b>Himalaya Organic Farm log in page!</b></h3>
+                <p>IF you have an account then log in otherwise register first.</p>
+                <div style="width: 83%;">
+                    <div class="card-body mt-2">
+                        <div class="row">
+                            <div class="col">
+                                <center>
+                                    <img src="~/image/user.png" />
+                                </center>
+
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <center>
+                                    <h3>Profile</h3>
+                                </center>
+
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <hr>
+
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <form method="post" asp-controller="Account" asp-action="Login">
+
+                                    <label><b>Username</b></label>
+                                    <div class="form-group">
+                                        <input class="form-control" asp-for="UserName" placeholder="Username">
+                                        <span asp-validation-for="UserName" class="text-danger"></span>
+                                    </div>
+                                    <label><b>Password</b></label>
+                                    <div class="form-group">
+                                        <input class="form-control" asp-for="Password" placeholder="*******">
+                                        <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="checkbox">
+                                            <label asp-for="RememberMe">
+                                                <input asp-for="RememberMe" />
+                                                @Html.DisplayNameFor(m => m.RememberMe)
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <button class="btn btn-outline-success btn-block btn-lg" >Login</button>
+                                    </div>
+                                    <div asp-validation-summary="All" class="text-danger" />
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div style="margin-left: 689px; margin-top: -500px;">
+                <div style="margin-left: -69px;">
+                    <p style="margin-right: 200px;margin-top: 214px;font-size: 31px;">|</p>
+                </div>              
+                <div style="margin-right:-269px; margin-top:-94px; margin-left: 87px;">
+                    <span>
+                        Don't hava an account? <br>
+                        Register as a new user.... <br> <br>
+                        <a asp-action="register" asp-controller="Account" style="text-decoration:none;">Register</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+

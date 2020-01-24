@@ -1,0 +1,115 @@
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.deps.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.runtimeconfig.dev.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.dll
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.TagHelpers.input.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.TagHelpers.output.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorCoreGenerate.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.pdb
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.dll
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.pdb
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.pdb
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.dll
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.pdb
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\register.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\logout.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Delete.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\Himalaya Organic Farm\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\CreateRole.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.deps.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.runtimeconfig.dev.json
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.dll
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.pdb
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.dll
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\bin\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.pdb
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorAssemblyInfo.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorAssemblyInfo.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.TagHelpers.input.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.TagHelpers.output.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorCoreGenerate.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\logout.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\register.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\CreateRole.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Department\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Designation\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Details.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Home\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Leave\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Salary\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Create.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Delete.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Edit.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Vacancy\Index.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.Views.pdb
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.dll
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.pdb
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\rmans\Desktop\HOF\EmployeeManagementSystem\obj\Debug\netcoreapp2.1\Razor\Views\Account\about.cshtml.g.cs

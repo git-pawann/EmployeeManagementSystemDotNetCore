@@ -1,0 +1,131 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<IdentityUser> signInManager;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .main_container {
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+        }
+
+        .footerlinks {
+            color: #fff;
+            text-decoration: none !important;
+        }
+
+            .footerlinks:hover {
+                color: #ffd800;
+            }
+
+        .footer1 {
+            background: #354772;
+        }
+
+        .footer2 {
+            background: #354772;
+        }
+        /* body{
+                background: linear-gradient(to right, #175525, #508b45);
+            } */
+    </style>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg" style="background-color: #354772;">
+            <a class="navbar-brand" asp-action="Index" asp-controller="Home" style="color: #fff;">
+                <img src="~/image/logo.png" style="width :52px; height :50px;" />
+                <b style="color:#88e335;">HOF</b>
+            </a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Home">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="about" asp-controller="Account">About us</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Department">Department</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Employee">Employee</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Designation">Designation</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Leave">Leave</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Vacancy">Vacancy</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" style="color: #fff;" asp-action="Index" asp-controller="Salary">Salary</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav">
+                    @if (signInManager.IsSignedIn(User))
+                    {
+                        <li class="nav-item active">
+                            <a class="nav-link" style="color: #fff;" href="">Welcome | @User.Identity.Name</a>
+                        </li>
+                        <li>
+                            <form method="post" asp-controller="Account" asp-action="Logout">
+                                <button class="nav-link btn btn-link" style="color: #fff;">Logout</button>
+                            </form>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item active">
+                            <a class="nav-link" style="color: #fff;" asp-action="login" asp-controller="Account">Login</a>
+                        </li>
+                    }
+                    @*<li class="nav-item active">
+             <a class="nav-link" style="color: #fff;" asp-action="register" asp-controller="Account">Sign up</a>
+        </li>*@
+                    <!-- <li class="nav-item active">
+        <a class="nav-link" style="color: #fff;" href="#">Logout</a>
+    </li>
+    <li class="nav-item active">
+         <a class="nav-link" style="color: #fff;" href="#">Hello user</a>
+    </li> -->
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        @*<div class="footer1" class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                        <p>
+                            <a class="footerlinks" class="LinkButton1" asp-action="Index" asp-controller="Dashboard">Admin Login</a>
+                        </p>
+                    </div>
+                </div>
+            </div>*@
+        <div class="footer2">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                    <p style="color: #fff;">
+                        &copy All right Reserved - Himalaya Organic Farm 2020 - <a class="footerlinks" asp-action="Index" asp-controller="Home">Employee Management System</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

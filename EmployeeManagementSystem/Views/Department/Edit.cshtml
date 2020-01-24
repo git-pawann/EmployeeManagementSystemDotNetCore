@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model DepartmentModel
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <title>Document</title>
+    </head>
+    <body>
+        <div class="container" style="min-height: 621px;">
+            <h2>Edit</h2>
+            <h4 style="color: green;">Edit for Department section..</h4>
+            <hr>
+            <div style="margin-left: 130px;">
+                <form asp-controller="Department" asp-action="Edit" method="post">
+                    @*<div class="form-group row">
+                            <label class="col-sm-3 col-form-label"><b>DepartmentID</b></label>
+                            <div class="col-sm-4">
+                                <input type="number" class="form-control" name="DepartmentID" placeholder="">
+                            </div>
+                        </div>*@
+                    <input asp-for="DepartmentId" hidden />
+                    <div class="form-group row">
+                        <label class="col-sm-3 col-form-label"><b>DepartmentName</b></label>
+                       
+                        <div class="col-sm-4">
+                            <input asp-for="DepartmentName" class="form-control">
+                            <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-3 col-form-label"><b>Description</b></label>
+                        <div class="col-sm-4">
+                            <input asp-for="Description" class="form-control">
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-default" style="margin-left: 252px;">Update</button>
+                </form>
+            </div>
+            <br>
+            <br>
+            <a asp-controller="Department" asp-action="Index" style="text-decoration: none;">Back to list</a>
+            <hr>
+            <br>           
+        </div>
+    </body>
+</html>
+}
+

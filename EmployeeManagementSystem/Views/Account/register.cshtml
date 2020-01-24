@@ -1,0 +1,77 @@
+﻿@model RegisterViewModel
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <style>
+            .paw {
+                margin-right: 551px;
+            }
+
+           
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+        <title>Login</title>
+    </head>
+    <body>
+        <div class="paw">
+            <div class="row mt-5">
+                <div class="col-md-6 mx-auto" style="min-height: 677px">
+                    <h3 style="color: forestgreen;"><b>User Registration:</b></h3>
+                    <div style="width: 83%;">
+                        <div class="card-body mt-3" style="min-height:771px;">
+                            <div class="row">
+                                <div class="col">
+                                    <form asp-action="register" asp-controller="Account" method="post" enctype="multipart/form-data">
+
+                                        <label><b>Email</b></label>
+                                        <div class="form-group">
+                                            <input class="form-control" asp-for="Email" placeholder="email@gmail.com">
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                        <label><b>Username</b></label>
+                                        <div class="form-group">
+                                            <input class="form-control" asp-for="UserName" placeholder="">
+                                            <span asp-validation-for="UserName" class="text-danger"></span>
+                                        </div>
+                                        <label><b>Password</b></label>
+                                        <div class="form-group">
+                                            <input type="password" class="form-control" asp-for="Password" placeholder="*******">
+                                            <span asp-validation-for="Password" class="text-danger"></span>
+
+                                        </div>
+                                        <label><b>Confirm Password</b></label>
+                                        <div class="form-group">
+                                            <input type="password" class="form-control" asp-for="ConfirmPassword" placeholder="">
+                                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <button class="btn btn-outline-success btn-block btn-lg" type="submit">Register</button>
+                                        </div>
+                                        <div asp-validation-summary="All" class="text-danger" />
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <a asp-action="Index" asp-controller="Home" style="text-decoration: none;">Back to Home</a>
+                    </div>
+                </div>
+                <div>
+                    @*<div style="margin-left: 700px; margin-top: -499px;">
+                        <p style="margin-right: 200px;margin-top: 194px;font-size: 31px;">|</p>
+                    </div>*@
+                    <div style="margin-left: 836px; width: 54%; margin-top: -661px;">
+                        <p style="font-size:18px;">Already have an account?</p>
+                        <span>
+                            <a asp-action="login" asp-controller="Account" style="text-decoration:none;">Log in</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+

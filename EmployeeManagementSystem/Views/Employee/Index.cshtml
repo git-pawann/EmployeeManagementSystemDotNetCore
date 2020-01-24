@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EmployeeManagementSystem.Models.EmployeeModel>
+
+
+
+<link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+
+<form method="get" action="Index">
+
+
+    <div class=" container" style="min-height: 621px;">
+        <h3 style="color: green;"><b>Employee Lists:</b></h3>
+        <a asp-controller="Employee" asp-action="Create">Create New</a>
+        <br />
+        <br />
+        <div class="container">
+            <table class="table table-hover">
+                <thead class="table">
+                    <tr>
+                        <th>EmployeeId</th>
+                        <th>EmployeeName</th>
+                        <th>DepartmentId</th>
+                        <th>DesignationID</th>
+                        <th>Email</th>
+                        <th>Gender</th>
+                        <th>Address</th>
+                        <th>Date</th>
+                        <th>Action(s)</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var emp in Model)
+                    {
+                    <tr>
+                        <td>@emp.EmployeeId</td>
+                        <td>@emp.EmployeeName</td>
+                        <td>@emp.DepartmentId</td>
+                        <td>@emp.DesignationID</td>
+                        <td>@emp.Email</td>
+                        <td>@emp.Gender</td>
+                        <td>@emp.Address</td>
+                        <td>@emp.Date</td>
+                        
+                        <td><a class=" btn btn-primary" asp-action="Edit" asp-controller="Employee" asp-route-id="@emp.EmployeeId">Edit</a></td>
+                        <td><a class=" btn btn-danger" asp-action="Delete" asp-controller="Enployee" asp-route-id="@emp.EmployeeId" style="margin-left: -32px;">Delete</a></td>
+                    </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+        <hr />
+    </div>
+</form>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<EmployeeManagementSystem.Models.VacancyModel>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link href="~/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <title>Document</title>
+</head>
+<body>
+    <form method="get" action="Index">
+
+
+        <div class=" container" style="min-height: 621px;">
+            <h3 style="color: green;"><b>Vacancy Lists:</b></h3>
+            <a asp-controller="Vacancy" asp-action="Create">Create New</a>
+            <br />
+            <br />
+            <div class="container">
+                <table class="table table-hover">
+                    <thead class="table">
+                        <tr>
+                            <th>VacancyId</th>
+                            <th>VacancyTitle</th>
+                            <th>NoOfPosts</th>
+                            <th>Description</th>
+                            <th>DesignationID</th>
+                            <th>Action(s)</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var vaca in Model)
+                        {
+                            <tr>
+                                <td>@vaca.VacancyId</td>
+                                <td>@vaca.VacancyTitle</td>
+                                <td>@vaca.NoOfPosts</td>
+                                <td>@vaca.Description</td>
+                                <td>@vaca.DesignationID</td>
+                                <td><a class=" btn btn-primary" asp-action="Edit" asp-controller="Vacancy" asp-route-id="@vaca.VacancyId">Edit</a></td>
+                                <td><a class=" btn btn-danger" asp-action="Delete" asp-controller="Vacancy" asp-route-id="@vaca.VacancyId" style="margin-left: -51px;">Delete</a></td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+            <hr />
+        </div>
+    </form>
+</body>
+</html>
